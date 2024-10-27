@@ -21,3 +21,6 @@ Hund: Dog
 Doener: Doner kebab
 Apfelkuchen: Apple pie
 Schloss Eltz: Eltz Castle
+Bratwurst: Sausage  
+Flughafen: Airport  
+Biergarten: Beer Garden  
